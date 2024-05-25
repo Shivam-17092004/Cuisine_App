@@ -1,4 +1,4 @@
-# meals_app
+# Cuisine_App
 
 This is a cuisine_app.
 
